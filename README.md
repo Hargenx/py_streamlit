@@ -4,7 +4,7 @@ Este é um aplicativo simples para desejar um Feliz Natal e um ótimo Ano Novo! 
 
 ## Demonstração
 
-[Demo do aplicativo](URL_DA_SUA_DEMO)
+[Demo do aplicativo](https://feliznatal.streamlit.app/)
 
 ![Screenshot do aplicativo](/assets/captura.png)
 
